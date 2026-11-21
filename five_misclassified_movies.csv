@@ -1,0 +1,6 @@
+imdb_id,title,year,runtime,rating,votes,genres,actual,predicted
+tt1764646,The Dome of Heaven,2011,89,7.6,26,['Drama'],1,0
+tt8041276,Paddleton,2019,89,7.1,14390,"['Comedy', 'Drama']",1,0
+tt3678782,Badlapur,2015,134,7.4,24469,"['Action', 'Crime', 'Drama']",1,0
+tt0297470,Wrong Numbers,2001,75,7.6,52,[''],1,0
+tt0488508,The Call of Wild,2006,86,6.9,1899,"['Documentary', 'Family']",0,1
